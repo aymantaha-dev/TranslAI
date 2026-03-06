@@ -1,7 +1,7 @@
 
 # 🌐 TRANSLai
 ## Multilingual Prompt Translation & Enhancement Middleware for Image Generation Models
-![GENEXUS-AI Banner](https://github.com/aymantaha3345/TranslAI/blob/main/Banner.png?raw=true)
+![GENEXUS-AI Banner](https://github.com/aymantaha-dev/TranslAI/blob/main/Banner.png?raw=true)
 
 
 ![Python Version](https://img.shields.io/badge/python-3.11+-blue)
